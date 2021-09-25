@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Balenciaga &#8211; HV&#039;s Store</title>
+	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/tu-khoa-san-pham/balenciaga/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinh-2007.github.io/mywordpress1</link>
+	<description>PHONG CÁCH MỖI NGÀY DO BẠN CHỌN</description>
+	<lastBuildDate>Fri, 24 Sep 2021 10:00:53 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Giày Balenciaga B2</title>
+		<link>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga-m2/</link>
+					<comments>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga-m2/#respond</comments>
+		
+		<dc:creator><![CDATA[vinhnguyen]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 14:39:37 +0000</pubDate>
+				<guid isPermaLink="false">https://vinh-2007.github.io/mywordpress1/?post_type=product&#038;p=194</guid>
+
+					<description><![CDATA[– Chất liệu vải thông thoáng mềm mịn
+
+– Đế chống trơn trượt
+
+– Size : Full size 38-40]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Thiết kế thể thao năng động</p>
+<p>&#8211; Chất liệu vải thông thoáng mềm mịn</p>
+<p>&#8211; Đẳng cấp thời trang vượt trội</p>
+<p>&#8211; Đế chống trơn trượt</p>
+<p>&#8211; Co dãn 4 chiều</p>
+<p>&#8211; Keo dán tỉ mi</p>
+<p>– Size : Full size 38-40</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga-m2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Giày Balenciaga B1</title>
+		<link>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga/</link>
+					<comments>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga/#respond</comments>
+		
+		<dc:creator><![CDATA[vinhnguyen]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 14:03:31 +0000</pubDate>
+				<guid isPermaLink="false">https://vinh-2007.github.io/mywordpress1/?post_type=product&#038;p=173</guid>
+
+					<description><![CDATA[- Chất liệu vải thông thoáng mềm mịn
+
+- Đế chống trơn trượt
+
+- Size :40-43]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Thiết kế thể thao năng động</p>
+<p>&#8211; Chất liệu vải thông thoáng mềm mịn</p>
+<p>&#8211; Đẳng cấp thời trang vượt trội</p>
+<p>&#8211; Đế chống trơn trượt</p>
+<p>&#8211; Co dãn 4 chiều</p>
+<p>&#8211; Keo dán tỉ mi</p>
+<p>&#8211; Size :40-43</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
