@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/tu-khoa-san-pham/balenciaga/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vinh-2007.github.io/mywordpress1</link>
 	<description>PHONG CÁCH MỖI NGÀY DO BẠN CHỌN</description>
-	<lastBuildDate>Fri, 24 Sep 2021 10:00:53 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 04:37:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Giày Balenciaga B2</title>
-		<link>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga-m2/</link>
-					<comments>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga-m2/#respond</comments>
+		<link>https://vinh-2007.github.io/mywordpress1/product/giay-balenciaga-m2/</link>
+					<comments>https://vinh-2007.github.io/mywordpress1/product/giay-balenciaga-m2/#respond</comments>
 		
 		<dc:creator><![CDATA[vinhnguyen]]></dc:creator>
 		<pubDate>Wed, 22 Sep 2021 14:39:37 +0000</pubDate>
@@ -42,15 +42,15 @@
 <p>– Size : Full size 38-40</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga-m2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/product/giay-balenciaga-m2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Giày Balenciaga B1</title>
-		<link>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga/</link>
-					<comments>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga/#respond</comments>
+		<link>https://vinh-2007.github.io/mywordpress1/product/giay-balenciaga/</link>
+					<comments>https://vinh-2007.github.io/mywordpress1/product/giay-balenciaga/#respond</comments>
 		
 		<dc:creator><![CDATA[vinhnguyen]]></dc:creator>
 		<pubDate>Wed, 22 Sep 2021 14:03:31 +0000</pubDate>
@@ -70,7 +70,7 @@
 <p>&#8211; Size :40-43</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/giay-balenciaga/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/product/giay-balenciaga/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

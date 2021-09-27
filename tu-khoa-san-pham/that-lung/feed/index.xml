@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/tu-khoa-san-pham/that-lung/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vinh-2007.github.io/mywordpress1</link>
 	<description>PHONG CÁCH MỖI NGÀY DO BẠN CHỌN</description>
-	<lastBuildDate>Sat, 25 Sep 2021 01:14:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 04:37:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Thắt lưng Nam Hermes</title>
-		<link>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/that-lung-nam-hermes/</link>
-					<comments>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/that-lung-nam-hermes/#respond</comments>
+		<link>https://vinh-2007.github.io/mywordpress1/product/that-lung-nam-hermes/</link>
+					<comments>https://vinh-2007.github.io/mywordpress1/product/that-lung-nam-hermes/#respond</comments>
 		
 		<dc:creator><![CDATA[vinhnguyen]]></dc:creator>
 		<pubDate>Sat, 25 Sep 2021 01:14:15 +0000</pubDate>
@@ -34,15 +34,15 @@
 <p>Hầu hết những chiếc thắt lưng hàng hiệu Hermes đều mang chữ H và được đúc nguyên khối từ đồng thau, bạc hoặc vàng, không bao giờ rỉ sét và không bị ảnh hưởng bởi môi trường.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/that-lung-nam-hermes/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/product/that-lung-nam-hermes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Thắt lưng Nam Gucci</title>
-		<link>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/that-lung-nam-gucci/</link>
-					<comments>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/that-lung-nam-gucci/#respond</comments>
+		<link>https://vinh-2007.github.io/mywordpress1/product/that-lung-nam-gucci/</link>
+					<comments>https://vinh-2007.github.io/mywordpress1/product/that-lung-nam-gucci/#respond</comments>
 		
 		<dc:creator><![CDATA[vinhnguyen]]></dc:creator>
 		<pubDate>Sat, 25 Sep 2021 01:09:12 +0000</pubDate>
@@ -73,7 +73,7 @@
 <p>&#8211; Quần kaki</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/sản%20phẩm/that-lung-nam-gucci/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vinh-2007.github.io/mywordpress1/product/that-lung-nam-gucci/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
